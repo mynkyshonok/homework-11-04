@@ -109,7 +109,7 @@ $ rabbitmqadmin get queue='hello'
 
 #### Решение:
 
-[файл с тасками роли ansible](main.yml)
+##### Файл с тасками роли ansible:
 
 ```yaml
 ---
